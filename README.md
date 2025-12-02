@@ -1,7 +1,7 @@
 # Heart Rate Prediction from Fingertip Video
 
 This project predicts heart rate and SpO2 from fingertip video data using deep learning and machine learning models.
-Download this [notebook](https://raw.githubusercontent.com/AndrewBlur/HeartRatePrediction/main/notebooks/starter_kit.ipynb) and try it in your colab 
+Download this [notebook](https://github.com/AndrewBlur/HeartRatePrediction/blob/main/notebooks/starter_kit.ipynb) and try it in your colab 
 ## Project Structure
 
 - `dataset/`:  he data is from [MEDVSE repository](https://github.com/MahdiFarvardin/MEDVSE).
